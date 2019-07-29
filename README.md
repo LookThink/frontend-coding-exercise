@@ -8,4 +8,4 @@ Ideally the design should be responsive and meet accessibility requirements.
 
 The API has a single GET endpoint at the following url:
 
-https://my-json-server.typicode.com/lookthink/frontend-coding-exercise
+https://my-json-server.typicode.com/lookthink/frontend-coding-exercise/people
